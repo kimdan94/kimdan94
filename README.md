@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">💻 Tech Stack</h3>
+<h3 align="center">💻 Tech Stack 💻</h3>
 
 ###
 
@@ -24,12 +24,19 @@
 
 ###
 
-<p align="center">🔍 More</p>
+<h3 align="center">🛠️ Tools 🛠️</h3>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/badge/Eclipse-4B088A?style=flat-square&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VisualStudioCode-00BFFF?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+
+###
+
+<h3 align="center">🔍 More 🔍</h3>
+  <a href="https://blog.naver.com/dana1939"><img src="https://img.shields.io/badge/Tech Blog-2EFE64?style=flat-square&logo=naver&logoColor=white"/></a>
 </div>
 
 ###
