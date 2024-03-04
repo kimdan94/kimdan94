@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">💻 Tech Stack 💻</h3>
+<h2 align="left">💻 Tech Stack 💻</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 align="left">🛠️ Tools 🛠️</h3>
+<h2 align="left">🛠️ Tools 🛠️</h2>
 
 ###
 
@@ -33,7 +33,7 @@
 
 <br>
 
-<h3 align="left">🔍 More 🔍</h3>
+<h2 align="left">🔍 More 🔍</h2>
   <a href="https://blog.naver.com/dana1939"><img src="https://img.shields.io/badge/Tech Blog-2EFE64?style=flat-square&logo=naver&logoColor=white"/></a>
 </div>
 
