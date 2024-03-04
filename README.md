@@ -1,12 +1,12 @@
-<h2 align="left">Web Developer 김다은🙋</h2>
+<h1 align="center">Web Developer 김다은🙋</h1>
 
 ###
 
-<h4 align="left">💻 Tech Stack</h4>
+<h3 align="center">💻 Tech Stack</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -24,11 +24,11 @@
 
 ###
 
-<p align="left">🔍 More</p>
+<p align="center">🔍 More</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
