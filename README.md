@@ -31,10 +31,14 @@
   <img src="https://img.shields.io/badge/VisualStudioCode-00BFFF?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 
-<br>
+###
 
 <h2 align="left">🔍 More 🔍</h2>
   <a href="https://blog.naver.com/dana1939"><img src="https://img.shields.io/badge/Tech Blog-2EFE64?style=flat-square&logo=naver&logoColor=white"/></a>
 </div>
+
+###
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdan94&count_bg=%233EA4EC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ###
