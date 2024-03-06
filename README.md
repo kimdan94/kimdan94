@@ -28,7 +28,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Eclipse-4B088A?style=flat-square&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VisualStudioCode-00BFFF?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intellijidea-0080FF?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 
 ###
