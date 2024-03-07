@@ -33,8 +33,10 @@
 
 ###
 
-<h2 align="left">🔍 More 🔍</h2>
-  <a href="https://blog.naver.com/dana1939"><img src="https://img.shields.io/badge/Tech Blog-2EFE64?style=flat-square&logo=naver&logoColor=white"/></a>
+<h2 align="left">🔍 Tech Blog 🔍</h2>
+  <a href="https://blog.naver.com/dana1939"><img src="https://img.shields.io/badge/Naver Blog-2EFE64?style=flat-square&logo=naver&logoColor=white"/></a>
+  <a href="https://velog.io/@dana1994/posts"><img src="https://img.shields.io/badge/Velog-00FFBF?style=flat-square&logo=velog&logoColor=white"/></a>
+  
 </div>
 
 ###
